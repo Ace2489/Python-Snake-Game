@@ -54,7 +54,7 @@ while True:
         screen.textinput(title='Game Over', prompt=f'Your final score is {score.get_score()}.\nEnter any key to exit.')
         break
 
-    if food.distance(snake.head) < 15:  # Eating food
+    if food.distance(snake.head) < 16:  # Eating food
         food.refresh()
         snake.grow()
         score.increase_score()
