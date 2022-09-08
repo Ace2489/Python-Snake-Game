@@ -30,8 +30,8 @@ $ python3 main.py
 ## How to play
 
 * Choose between two speeds(normal and fast) at the start of the game.
-* Avoid collision with walls or the body of the snake.
 * Move around using the directional keys.
+* Avoid collision with walls or the body of the snake.
 * Eat the food to grow the snake.
 * Try to get the highest score.
 
