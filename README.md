@@ -6,7 +6,7 @@
 <h4 align="center">A mimic of the classic snake game built using the Turtle module in Python</h4>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#installation-and-setup">Key Features</a> •
   <a href="#how-to-play">How to play</a> •
 </p>
 
