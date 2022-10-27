@@ -37,7 +37,6 @@ $ python3 main.py
 
 
 
-![image](https://user-images.githubusercontent.com/62785682/188923951-ce53f9bc-c602-4836-a301-d865869e4421.png)
 
 
 
