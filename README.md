@@ -17,8 +17,8 @@
 You need to have [Python](https://www.python.org/downloads/) installed on your machine to get the site running.
 
 ```bash
-# Clone this repository into 
-$ git clone https://github.com/Covenant224/Python-Snake-Game.git
+# Clone into this 
+$ git clone https://github.com/Ace2489/Python-Snake-Game.git
 
 # Go into the repository
 $ cd Python-Snake-Game
