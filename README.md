@@ -17,10 +17,10 @@
 You need to have [Python](https://www.python.org/downloads/) installed on your machine to get the site running.
 
 ```bash
-# Clone into this 
+# Clone into this repository
 $ git clone https://github.com/Ace2489/Python-Snake-Game.git
 
-# Go into the repository
+# Go into the directory
 $ cd Python-Snake-Game
 
 # Run the main file
